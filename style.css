@@ -4,6 +4,7 @@
   --veryPaleBlue: hsl(225, 100%, 98%);
   --unsaturatedBlue: hsl(224, 23%, 55%);
   --darkBlue: hsl(223, 47%, 23%);
+  --clrActive:hsl(245, 72%, 65%);
 }
 
 * {
@@ -90,6 +91,9 @@ p {
   flex-grow: 2;
   text-align: right;
 }
+.card__plan a:active {
+  color: var(--clrActive);
+}
 .plan__pricing h2 {
   font-size: 1rem;
   color: var(--darkBlue);
@@ -115,8 +119,14 @@ a.btn__proceed {
   -moz-box-shadow: 0px 20px 20px -8px rgba(177, 176, 240, 0.70);;
   box-shadow: 0px 20px 20px -8px rgba(177, 176, 240, 0.70);
 }
+a.btn__proceed:active {
+  background-color: var(--clrActive);
+}
 a.cancel {
   text-decoration: none;
+}
+.cancel p:active {
+  color: var(--darkBlue);
 }
 .cancel p {
   font-weight: 900;
