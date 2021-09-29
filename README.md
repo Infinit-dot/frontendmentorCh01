@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Frontend Mentor Order summary card-solution.png)
+![](images/Frontend Mentor Order summary card-solution.png?raw=true)
 
 ### Links
 
