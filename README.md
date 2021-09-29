@@ -33,12 +33,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](.images\Frontend Mentor Order summary card-solution.png)
+![](./images/Frontend Mentor Order summary card-solution.png)
 
 ### Links
 
-- Solution URL: (https://github.com/Infinit-dot/frontendmentorCh01)
-- Live Site URL: (https://infinit-dot.github.io/frontendmentorCh01/)
+- Solution URL: (<https://github.com/Infinit-dot/frontendmentorCh01>)
+- Live Site URL: (<https://infinit-dot.github.io/frontendmentorCh01/>)
 
 ### Built with
 
@@ -52,4 +52,5 @@ Users should be able to:
 - (<https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-properties>)
 
 ## Author
+
 - Frontend Mentor - [@Infinit-dot](https://www.frontendmentor.io/profile/Infinit-dot)
