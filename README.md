@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Frontend Mentor Order summary card-solution.png?raw=true)
+![summary card](<https://github.com/Infinit-dot/frontendmentorCh01/tree/main/images/Frontend> Mentor Order summary card-solution.png)
 
 ### Links
 
