@@ -14,7 +14,6 @@
 }
 html, body {
     width: 100%;
-
 }
 
 .pad {
@@ -75,7 +74,7 @@ p {
   margin-bottom: 2em;
   margin-top: 2em;
   background-color: var(--veryPaleBlue);
-  padding: 1em;
+  padding: 1.4em 1.2em;
   border-radius: 1em;
 }
 .plan__pricing {
@@ -146,7 +145,18 @@ a.cancel {
 }
 
 @media screen and (min-width: 800px) {
+  .pad {
+    padding: 0 2.5em;
+  }
   .card__wrapper {
     background-image: url("images/pattern-background-desktop.svg");
   }
+  .card__details h1 {
+    font-size: 1.625em;
+    margin-top: 1.5em;
+    margin-bottom: 0.7em;
   }
+  a.btn__proceed {
+    width: calc(100% - 5em);
+  }
+}
